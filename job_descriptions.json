@@ -1,0 +1,27 @@
+[
+  {
+    "job_id": "JOB001",
+    "title": "Senior Software Engineer",
+    "description": "We're looking for a rockstar developer with aggressive problem-solving skills. Must be young and energetic with a competitive mindset. Native English speaker preferred."
+  },
+  {
+    "job_id": "JOB002",
+    "title": "Marketing Manager",
+    "description": "Seeking an ambitious go-getter who can dominate the market. Strong leadership and assertive communication required."
+  },
+  {
+    "job_id": "JOB003",
+    "title": "Data Analyst",
+    "description": "Looking for a skilled professional with strong analytical abilities. Experience with Python and SQL required. Collaborative team environment."
+  },
+  {
+    "job_id": "JOB004",
+    "title": "HR Specialist",
+    "description": "Recent graduate wanted for entry-level HR position. Must be fit and able-bodied to handle fast-paced environment."
+  },
+  {
+    "job_id": "JOB005",
+    "title": "Product Manager",
+    "description": "Experienced professional needed to lead product strategy. Strong communication skills and adaptability required."
+  }
+]
