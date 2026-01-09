@@ -100,36 +100,36 @@ Both Microsoft AI services are **required to operate**.
 │  • Hiring Data (CSV – organization provided)        │
 │  • Job Descriptions (JSON / Text)                   │
 └─────────────────┬───────────────────────────────────┘
-│
+│                 |
 ┌─────────────────▼───────────────────────────────────┐
 │              MICROSOFT AI LAYER                     │
 │                                                     │
-│  ┌────────────────────────────┐                    │
-│  │ Azure Machine Learning     │                    │
-│  │ • Fairness metrics         │                    │
-│  │ • EEOC compliance checks   │                    │
-│  └────────────────────────────┘                    │
+│  ┌────────────────────────────┐                     │
+│  │ Azure Machine Learning     │                     │
+│  │ • Fairness metrics         │                     │
+│  │ • EEOC compliance checks   │                     │
+│  └────────────────────────────┘                     │
 │                                                     │
-│  ┌────────────────────────────┐                    │
-│  │ Azure AI Language Service  │                    │
-│  │ • Bias detection           │                    │
-│  │ • Inclusive suggestions    │                    │
-│  └────────────────────────────┘                    │
+│  ┌────────────────────────────┐                     │
+│  │ Azure AI Language Service  │                     │
+│  │ • Bias detection           │                     │
+│  │ • Inclusive suggestions    │                     │
+│  └────────────────────────────┘                     │
 └─────────────────┬───────────────────────────────────┘
-│
+│                 |
 ┌─────────────────▼───────────────────────────────────┐
 │               ANALYSIS LAYER                        │
-│  • Outcome disparity measurement                   │
-│  • Bias severity scoring                           │
-│  • Explainability metadata                         │
-│  • Responsible AI safeguards                       │
+│  • Outcome disparity measurement                    │
+│  • Bias severity scoring                            │
+│  • Explainability metadata                          │
+│  • Responsible AI safeguards                        │
 └─────────────────┬───────────────────────────────────┘
-│
+│                 |
 ┌─────────────────▼───────────────────────────────────┐
 │                OUTPUT LAYER                         │
-│  • Interactive HTML dashboards                     │
-│  • JSON audit & compliance reports                 │
-│  • Executive-ready insights                        │
+│  • Interactive HTML dashboards                      │
+│  • JSON audit & compliance reports                  │
+│  • Executive-ready insights                         │
 └─────────────────────────────────────────────────────┘
 
 ````
